@@ -20,7 +20,7 @@
 ### Портфолио
 1. Теория тестирования
 2. Проектирование тестов для веб-приложений
-3. [Тестирование мобильных приложений](https://github.com/reshet-igor/reshet-igor/blob/57ab6caeb56a4ce43c54d271c39e247412db50d5/README.md)
+3. [Тестирование мобильных приложений](https://github.com/reshet-igor/reshet-igor/blob/main/pages/mobile.md)
 4. Тестирование API и коллекция Postman
 5. PostgreSQL
 6. Учебный проект тестирования веб-приложений

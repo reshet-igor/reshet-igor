@@ -18,15 +18,15 @@
 ![Git](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=github)
 
 ### Портфолио
-1. Теория тестирования
-2. Проектирование тестов для веб-приложений
+1. [Теория тестирования](https://github.com/reshet-igor/reshet-igor/blob/main/pages/theory.md)
+2. [Проектирование тестов для веб-приложений](https://github.com/reshet-igor/reshet-igor/blob/main/pages/web.md)
 3. [Тестирование мобильных приложений](https://github.com/reshet-igor/reshet-igor/blob/main/pages/mobile.md)
-4. Тестирование API и коллекция Postman
-5. PostgreSQL
-6. Учебный проект тестирования веб-приложений
-7. Некоммерческий проект тестирования
+4. [Тестирование API и коллекция Postman](https://github.com/reshet-igor/reshet-igor/blob/main/pages/API.md)
+5. [PostgreSQL](https://github.com/reshet-igor/reshet-igor/blob/main/pages/SQL.md)
+6. [Учебный проект тестирования веб-приложений](https://github.com/reshet-igor/reshet-igor/blob/main/pages/team_web_qa.md)
+7. [Некоммерческий проект тестирования](https://github.com/reshet-igor/reshet-igor/blob/main/pages/non_commertial_qa.md)
 8. [Автоматизированное тестирование на Python (основы)](https://github.com/reshet-igor/YNDX-practicum-prilavok-autotests)
-9. Дипломный проект
+9. [Дипломный проект](https://github.com/reshet-igor/reshet-igor/blob/main/pages/Diploma.md)
 
 ### Контакты
 [![e-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reshetnikovib@yandex.ru)

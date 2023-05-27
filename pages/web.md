@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/collabocats.jpg" height="160px" width="160px">
+<p align="center"> <img src="https://octodex.github.com/images/collabocats.jpg" height="240px" width="240px">
 
 ## Это первый блок по теории тестирования"
 #### Задача на спринт
